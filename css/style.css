@@ -2,9 +2,11 @@ body {
     background-image: url("../Grilled-Cheese-Sandwich-3.jpg");
     background-repeat: no-repeat;
     background-color: aquamarine;
+    background-attachment: fixed;
+    background-position: center
     font-style: italic;
     color: aliceblue;
     }
 h1 {
-    color: green;
+    color: crimson;
 }
